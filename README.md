@@ -19,8 +19,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Links de Referencia
 - Documento de Google: https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit
+- GitHub: https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
 
 ## Resultado de la aplicacion
 ![image](https://github.com/DylanLozanoAvelar/P12_entrepag_6I/assets/143743272/9d3e5294-6516-4bce-aac7-4165a8a4c199)
 ![image](https://github.com/DylanLozanoAvelar/P12_entrepag_6I/assets/143743272/0923464f-0eb7-4c6d-8c41-663d6d14eaba)
+![image](https://github.com/DylanLozanoAvelar/P12_entrepag_6I/assets/143743272/ce39dbc2-f89d-4de7-a8ee-032e1a11a976)
+![image](https://github.com/DylanLozanoAvelar/P12_entrepag_6I/assets/143743272/fe5c0a27-c113-4819-a638-c23596f9550a)
+
 
